@@ -1,0 +1,2 @@
+# excel-to-html-table-converter
+A simple python 3 script to convert excel table to html table . The script converts table in excel sheet to html table and outputs the result into a html file. The advantage of this python script is it only create raw html table without any predefined styles and with clear class names for each rows and columns so that the users can style easily the table as how they want.   
